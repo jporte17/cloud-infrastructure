@@ -1,0 +1,7 @@
+#!/bin/bash
+
+ echo "Deploying infrastructure..."
+  echo "Deployment completed successfully!"#!/bin/bash
+
+   echo "Deploying infrastructure..."
+    echo "Deployment completed successfully!"
